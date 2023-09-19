@@ -10,7 +10,7 @@ const Home = () => {
               <img src="./assets/myphoto.jpg" alt="" height={'300px'} width={'auto'} className='boreder rounded'/>
               </div>
               <div className='mx-3'>
-              <h1>Prem Y</h1>
+              <h1>SANTOSH NAIK</h1>
               <p>Student at Sahyadri College of Engineering & Management</p>
               <p>2nd year, AIML Department</p>
               <p>Learning</p>
@@ -26,7 +26,7 @@ const Home = () => {
         <div className='card mt-2'>
           <div className='card-body'>
           <h3>About</h3>
-          <p>Hi, I'm Prem Rao, an adept orator, team leader, and a fast learner. I'm passionate about leveraging my communication and leadership skills to deliver high-quality results in any project I undertake.
+          <p>Hi, I'm Santosh naik, an adapt orator, and a fast learner. I'm passionate about leveraging my communication and leadership skills to deliver high-quality results in any project I undertake.
 
 As a diligent student, I am actively acquiring proficiency in HTML, CSS, and JavaScript, while also immersing myself in the intricacies of the MERN stack. This exciting journey allows me to effectively address a wide array of web development challenges. Moreover, I possess a strong foundation in C,C++,Java programming languages, which significantly enhances my problem-solving abilities.
 
